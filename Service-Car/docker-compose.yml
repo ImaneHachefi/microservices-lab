@@ -1,0 +1,15 @@
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: carservice-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+      MYSQL_DATABASE: carservicedb
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql_car_data:/var/lib/mysql
+
+volumes:
+  mysql_car_data:
