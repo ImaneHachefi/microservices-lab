@@ -1,0 +1,14 @@
+<img width="1900" height="928" alt="Capture d&#39;écran 2026-11-18 134814" src="https://github.com/user-attachments/assets/67defd8c-1e59-431b-8b7c-10f21bcd21ef" />
+<img width="1585" height="500" alt="Capture d&#39;écran 2026-11-18 170607" src="https://github.com/user-attachments/assets/83d61efd-ad02-4bd4-b986-68b817052427" />
+<img width="1287" height="798" alt="Capture d&#39;écran 2026-11-18 171103" src="https://github.com/user-attachments/assets/7f222773-3202-4467-9ee7-a25226a8f43f" />
+<img width="1903" height="928" alt="Capture d&#39;écran 2026-11-18 182602" src="https://github.com/user-attachments/assets/afc787cf-fccb-4f87-a180-7dc71a6157e9" />
+<img width="1900" height="928" alt="Capture d&#39;écran 2026-11-18 210142" src="https://github.com/user-attachments/assets/03606688-56b9-4f60-bbe6-79759186ee2e" />
+<img width="410" height="693" alt="Capture d&#39;écran 2026-11-18 214858" src="https://github.com/user-attachments/assets/83a7215c-b162-4034-b339-e4d7da6ab2c5" />
+<img width="1166" height="796" alt="Capture d&#39;écran 2026-11-18 214928" src="https://github.com/user-attachments/assets/52095e8c-6a5e-47b6-8bce-6e7865bed63e" />
+<img width="437" height="354" alt="Capture d&#39;écran 2026-11-18 214959" src="https://github.com/user-attachments/assets/25c6a136-29b1-4c16-9fd4-8c496eff6415" />
+<img width="1613" height="524" alt="Capture d&#39;écran 2026-11-18 221610" src="https://github.com/user-attachments/assets/f7b541f6-6628-4fa4-95f4-155528fcffd4" />
+<img width="718" height="748" alt="Capture d&#39;écran 2026-11-18 221705" src="https://github.com/user-attachments/assets/ec0f9cb3-e536-40f7-ae5e-eab9005f165b" />
+<img width="1906" height="931" alt="Capture d&#39;écran 2026-11-18 223231" src="https://github.com/user-attachments/assets/c0e2be82-8575-4aa6-ab73-81d9bb89c089" />
+<img width="1215" height="764" alt="Capture d&#39;écran 2026-11-18 224139" src="https://github.com/user-attachments/assets/5ab64f0e-81b7-4253-8758-949ad33eaea8" />
+<img width="524" height="1027" alt="Capture d&#39;écran 2026-11-18 224213" src="https://github.com/user-attachments/assets/a52f2d61-c10d-41df-b97f-7915b54dadfe" />
+<img width="570" height="418" alt="Capture d&#39;écran 2026-11-18 224232" src="https://github.com/user-attachments/assets/6281f871-5b30-4356-9078-dab2d901afa0" />
